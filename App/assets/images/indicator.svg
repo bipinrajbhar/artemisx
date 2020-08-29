@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400.508" height="398.321" viewBox="0 0 400.508 398.321">
+  <g id="계기판_긴거" data-name="계기판 긴거" transform="translate(-1448.429 -1063.235)">
+    <line id="Line_126" data-name="Line 126" y1="24.519" transform="translate(1648.648 1063.235)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_127" data-name="Line 127" x1="9.973" y1="22.399" transform="translate(1566.794 1080.647)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_128" data-name="Line 128" x1="18.221" y1="16.406" transform="translate(1499.099 1113.026)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_129" data-name="Line 129" x1="23.319" y1="7.577" transform="translate(1457.268 1185.506)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_130" data-name="Line 130" x1="24.385" y2="2.563" transform="translate(1448.534 1266.171)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_131" data-name="Line 131" x1="21.234" y2="12.26" transform="translate(1474.406 1336.06)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_132" data-name="Line 132" x1="14.412" y2="19.836" transform="translate(1530.412 1390.665)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_133" data-name="Line 133" x1="5.098" y2="23.983" transform="translate(1606.868 1437.365)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_134" data-name="Line 134" x2="5.098" y2="23.983" transform="translate(1685.456 1437.352)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_135" data-name="Line 135" x2="14.412" y2="19.836" transform="translate(1752.587 1407.448)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_136" data-name="Line 136" x2="21.234" y2="12.26" transform="translate(1801.751 1352.826)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_137" data-name="Line 137" x2="24.385" y2="2.563" transform="translate(1824.448 1282.929)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_138" data-name="Line 138" y1="7.577" x2="23.319" transform="translate(1816.753 1202.267)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_139" data-name="Line 139" y1="16.406" x2="18.221" transform="translate(1779.997 1129.8)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_140" data-name="Line 140" y1="22.399" x2="9.973" transform="translate(1720.534 1080.621)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

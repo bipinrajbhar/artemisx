@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="657.382" height="657.382" viewBox="0 0 657.382 657.382">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#110c34"/>
+      <stop offset="0.429" stop-color="#110c34" stop-opacity="0.957"/>
+      <stop offset="0.64" stop-color="#110c34" stop-opacity="0.812"/>
+      <stop offset="0.803" stop-color="#110c34" stop-opacity="0.561"/>
+      <stop offset="0.941" stop-color="#110c34" stop-opacity="0.204"/>
+      <stop offset="1" stop-color="#110c34" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cy="0.5" r="0.483" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="메인3" transform="translate(-1062.989 -945.844)">
+    <circle id="Ellipse_51" data-name="Ellipse 51" cx="328.691" cy="328.691" r="328.691" transform="translate(1062.989 945.844)" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_52" data-name="Ellipse 52" cx="328.691" cy="328.691" r="328.691" transform="translate(1062.989 945.844)" fill="url(#radial-gradient-2)"/>
+  </g>
+</svg>

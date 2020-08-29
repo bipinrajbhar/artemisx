@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="459.515" height="152.284" viewBox="0 0 459.515 152.284">
+  <g id="로고" transform="translate(-643.927 -49.38)">
+    <text id="ARTÈMIS_X" data-name="ARTÈMIS X" transform="translate(776.442 63.664)" fill="#fff" font-size="62" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="0" y="66">ARTÈMIS </tspan><tspan y="66" fill="#fda000">X</tspan></text>
+    <g id="Group_173" data-name="Group 173">
+      <path id="Path_84" data-name="Path 84" d="M699.379,173.426l-26.392-73.4L646.279,174.3" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+      <path id="Path_85" data-name="Path 85" d="M699.379,174.191h45.956l-22-61.195" fill="none" stroke="#fca800" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+      <circle id="Ellipse_68" data-name="Ellipse 68" cx="15.299" cy="15.299" r="15.299" transform="translate(657.732 51.698)" fill="#fca800"/>
+      <path id="Path_86" data-name="Path 86" d="M701.33,51.88l22,61.2,22-61.2Z" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

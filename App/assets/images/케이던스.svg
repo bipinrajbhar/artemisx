@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="241.944" viewBox="0 0 240 241.944">
+  <g id="케이던스" transform="translate(-1272.263 -1137.84)">
+    <text id="_95.5" data-name="95.5" transform="translate(1392.263 1303.164)" fill="#fff" font-size="130" font-family="SegoeUI, Segoe UI"><tspan x="-119.209" y="0">95.5</tspan></text>
+    <text id="RPM" transform="translate(1392.263 1370.785)" fill="#fda000" font-size="32" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="-32.304" y="0">RPM</tspan></text>
+    <text id="CADENCE" transform="translate(1392.263 1171.84)" fill="#2dcaf9" font-size="32" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="-66.512" y="0">CADENCE</tspan></text>
+  </g>
+</svg>

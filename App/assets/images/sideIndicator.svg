@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="467.107" height="1212.229" viewBox="0 0 467.107 1212.229">
+  <g id="강도_조절" data-name="강도 조절" transform="translate(-2125.263 -659.714)">
+    <circle id="Ellipse_79" data-name="Ellipse 79" cx="33.314" cy="33.314" r="33.314" transform="translate(2491.497 1013.426)" fill="url(#radial-gradient)"/>
+    <line id="Line_217" data-name="Line 217" x1="28.329" y1="0.993" transform="translate(2455.066 1297.424)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_218" data-name="Line 218" x1="28.313" y2="1.381" transform="translate(2454.603 1228.422)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_219" data-name="Line 219" x1="28.098" y2="3.746" transform="translate(2448.482 1158.713)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_220" data-name="Line 220" x1="55.372" y2="12.167" transform="translate(2411.736 1091.349)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_221" data-name="Line 221" x1="27.08" y2="8.379" transform="translate(2419.482 1022.102)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_222" data-name="Line 222" x1="26.284" y2="10.616" transform="translate(2396.805 956.159)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_223" data-name="Line 223" x1="25.303" y2="12.778" transform="translate(2368.878 892.411)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_224" data-name="Line 224" x1="24.145" y2="14.85" transform="translate(2335.895 831.305)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_225" data-name="Line 225" x1="45.636" y2="33.637" transform="translate(2277.369 773.541)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_226" data-name="Line 226" x1="28.147" y1="3.36" transform="translate(2449.87 1364.847)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_227" data-name="Line 227" x1="55.534" y1="11.406" transform="translate(2412.21 1427.292)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_228" data-name="Line 228" x1="27.192" y1="8.007" transform="translate(2422.683 1497.21)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_229" data-name="Line 229" x1="26.427" y1="10.254" transform="translate(2400.883 1561.222)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_230" data-name="Line 230" x1="25.476" y1="12.429" transform="translate(2373.803 1623.185)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_231" data-name="Line 231" x1="24.347" y1="14.518" transform="translate(2341.633 1682.665)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_232" data-name="Line 232" x1="46.093" y1="33.008" transform="translate(2279.259 1725.505)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="5"/>
+    <text id="_0" data-name="0" transform="translate(2258.455 1724.673)" fill="#ccc" font-size="32.437" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="-8.579" y="0">0</tspan></text>
+    <text id="_5" data-name="5" transform="translate(2390.641 1435.726)" fill="#ccc" font-size="32.437" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="-8.579" y="0">5</tspan></text>
+    <text id="_10" data-name="10" transform="translate(2377.241 1120.361)" fill="#ccc" font-size="32.437" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="-17.159" y="0">10</tspan></text>
+    <text id="_15" data-name="15" transform="translate(2242.477 836.339)" fill="#ccc" font-size="32.437" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="-17.159" y="0">15</tspan></text>
+  </g>
+</svg>

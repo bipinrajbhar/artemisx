@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2463.242" height="1839.398" viewBox="0 0 2463.242 1839.398">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_90" data-name="Rectangle 90" width="625.519" height="79.114" rx="11.339" transform="translate(1370.006 418.289)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_89" data-name="Rectangle 89" width="635.519" height="89.114" transform="translate(1365.007 413.289)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="인포메이션" transform="translate(-49.932 -88.766)">
+    <text id="DISTANCE" transform="translate(336.998 891.757)" fill="#2dcaf9" font-size="32" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">DISTANCE</tspan></text>
+    <line id="Line_106" data-name="Line 106" y1="91.946" x2="91.946" transform="translate(209.43 832.907)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="3"/>
+    <g id="Group_87" data-name="Group 87">
+      <path id="Path_59" data-name="Path 59" d="M381.4,634.72a45.974,45.974,0,1,1-45.973,45.974" fill="none" stroke="#ccc" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_60" data-name="Path 60" d="M362.712,691.225,381.4,680.694V648.761" fill="none" stroke="#ccc" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <circle id="Ellipse_57" data-name="Ellipse 57" cx="2.299" cy="2.299" r="2.299" transform="translate(361.169 635.931)" fill="#ccc"/>
+      <circle id="Ellipse_58" data-name="Ellipse 58" cx="2.299" cy="2.299" r="2.299" transform="translate(346.221 646.123)" fill="#ccc"/>
+      <circle id="Ellipse_59" data-name="Ellipse 59" cx="2.299" cy="2.299" r="2.299" transform="translate(335.653 661.221)" fill="#ccc"/>
+    </g>
+    <text id="DURATION" transform="translate(462.991 691.224)" fill="#2dcaf9" font-size="32" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">DURATION</tspan></text>
+    <g id="Group_88" data-name="Group 88">
+      <path id="Path_61" data-name="Path 61" d="M221.135,1522.736s9.835,11.985-1.32,31.6c-11.413,20.063-18.5-7-18.5-7s-23.9,47.168,12.681,64.286c15.942,7.46,27.861,1.553,33.037-1.785,25.522-16.459,10.025-46.853,10.025-46.853s-2.823,12.194-8.53,11.773C231.209,1573.478,260.18,1542.2,221.135,1522.736Z" fill="none" stroke="#ccc" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_62" data-name="Path 62" d="M224.407,1568.973s4.918,5.994-.66,15.8c-5.707,10.033-9.252-3.5-9.252-3.5s-11.954,23.587,6.342,32.147c7.972,3.73,13.932.776,16.52-.893,12.763-8.23,5.013-23.429,5.013-23.429s-1.411,6.1-4.265,5.887C229.445,1594.348,243.932,1578.706,224.407,1568.973Z" fill="none" stroke="#ccc" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <text id="CALORIES" transform="translate(309.274 1584.891)" fill="#2dcaf9" font-size="32" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">CALORIES</tspan></text>
+    <g id="Group_89" data-name="Group 89">
+      <path id="Path_63" data-name="Path 63" d="M175.574,1388.718c36.275-31.62,38.6-36.969,40.786-40.343,6.5-10.047,5.947-21.018,5.356-26.707-1.337-12.875-11.066-25.119-24.01-25.119s-22.09,12.858-22.09,25.8c0-12.944-9.146-25.8-22.09-25.8s-22.673,12.244-24.011,25.119c-.591,5.689-1.145,16.66,5.356,26.707,2.183,3.374,4.442,8.653,40.717,40.274" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_64" data-name="Path 64" d="M175.616,1322.351" fill="none" stroke="#ccc" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_65" data-name="Path 65" d="M133.807,1346.612h26.958l3.879,5.82,3.955-21.558,7.57,33.032,6.206-25.327,2.66,8.311h18.618" fill="none" stroke="#ccc" stroke-linejoin="round" stroke-width="3"/>
+      <circle id="Ellipse_60" data-name="Ellipse 60" cx="4.156" cy="4.156" r="4.156" transform="translate(199.497 1342.735)" fill="#ccc"/>
+    </g>
+    <text id="HEARTRATE" transform="translate(257.21 1354.291)" fill="#2dcaf9" font-size="32" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">HEARTRATE</tspan></text>
+    <g id="Group_90" data-name="Group 90">
+      <path id="Path_66" data-name="Path 66" d="M148.442,1143.634a45.974,45.974,0,1,1,72.841.057" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_67" data-name="Path 67" d="M178.63,1116.672l27.68-30.294-13.29,39.671" fill="#ccc"/>
+      <path id="Path_68" data-name="Path 68" d="M184.885,1114.042a8.757,8.757,0,1,0,8.757,8.757A8.757,8.757,0,0,0,184.885,1114.042Zm0,12.646a3.889,3.889,0,1,1,3.889-3.889A3.889,3.889,0,0,1,184.885,1126.688Z" fill="#ccc"/>
+    </g>
+    <text id="SPEED" transform="translate(266.479 1118.911)" fill="#2dcaf9" font-size="32" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">SPEED</tspan></text>
+    <path id="Path_69" data-name="Path 69" d="M346.923,1733.921l-39.1,53.69h24.1l-6.3,38.257,40.213-53.472h-25Z" fill="none" stroke="#ccc" stroke-linejoin="round" stroke-width="3"/>
+    <text id="POWER" transform="translate(418.422 1794.151)" fill="#2dcaf9" font-size="32" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">POWER</tspan></text>
+    <text id="_26:30" data-name="26:30" transform="translate(495.428 801.393)" fill="#fff" font-size="75" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">26:30</tspan></text>
+    <text id="_18.5" data-name="18.5" transform="translate(367.86 1005.744)" fill="#fff" font-size="75" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">18.5</tspan></text>
+    <text id="_41.2" data-name="41.2" transform="translate(298.915 1241.006)" fill="#fff" font-size="75" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">41.2</tspan></text>
+    <text id="_162" data-name="162" transform="translate(289.646 1470.397)" fill="#fff" font-size="75" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">162</tspan></text>
+    <text id="_263" data-name="263" transform="translate(341.71 1697.489)" fill="#fff" font-size="75" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">263</tspan></text>
+    <text id="_126" data-name="126" transform="translate(450.859 1906.164)" fill="#fff" font-size="75" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">126</tspan></text>
+    <text id="min" transform="translate(702.137 767.388)" fill="#fda000" font-size="32" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">min</tspan></text>
+    <text id="mile" transform="translate(531.729 972.44)" fill="#fda000" font-size="32" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">mile</tspan></text>
+    <text id="mi_h" data-name="mi/h" transform="translate(465.971 1206.436)" fill="#fda000" font-size="32" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">mi/h</tspan></text>
+    <text id="bpm" transform="translate(435.697 1437.526)" fill="#fda000" font-size="32" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">bpm</tspan></text>
+    <text id="kcal" transform="translate(486.154 1664.257)" fill="#fda000" font-size="32" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">kcal</tspan></text>
+    <text id="watts" transform="translate(598.24 1871.491)" fill="#fda000" font-size="32" font-family="NotoSans-SemiCondensedSemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">watts</tspan></text>
+    <rect id="Rectangle_84" data-name="Rectangle 84" width="8.379" height="55.882" transform="translate(1287.919 1829.618)" fill="#fff"/>
+    <rect id="Rectangle_85" data-name="Rectangle 85" width="8.379" height="55.882" transform="translate(1315.844 1829.618)" fill="#fff"/>
+    <rect id="Rectangle_86" data-name="Rectangle 86" width="34.636" height="34.636" transform="translate(1459.882 1840.241)" fill="#fff"/>
+    <circle id="Ellipse_61" data-name="Ellipse 61" cx="49.972" cy="49.972" r="49.972" transform="translate(1255.602 1807.587)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="8"/>
+    <circle id="Ellipse_62" data-name="Ellipse 62" cx="49.972" cy="49.972" r="49.972" transform="translate(1427.228 1807.587)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="8"/>
+    <line id="Line_107" data-name="Line 107" x2="60.145" transform="translate(49.932 91.825)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Line_108" data-name="Line 108" x2="60.145" transform="translate(49.932 112.289)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Line_109" data-name="Line 109" x2="60.145" transform="translate(49.932 132.753)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="3"/>
+    <g id="Icon_feather-search" data-name="Icon feather-search" opacity="0.42">
+      <path id="Path_166" data-name="Path 166" d="M2502.856,103.532a14.638,14.638,0,0,1-29.146,0,14.638,14.638,0,0,1,29.146,0Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_167" data-name="Path 167" d="M2511.053,123.861l-11.886-11.534" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g id="Group_98" data-name="Group 98" opacity="0.2">
+      <g id="Group_97" data-name="Group 97">
+        <g id="Group_96" data-name="Group 96" clip-path="url(#clip-path)">
+          <g id="Group_95" data-name="Group 95">
+            <g id="Group_94" data-name="Group 94">
+              <g id="Group_93" data-name="Group 93" clip-path="url(#clip-path-2)">
+                <g id="Group_92" data-name="Group 92">
+                  <g id="Group_91" data-name="Group 91" clip-path="url(#clip-path-2)">
+                    <image id="Rectangle_87" data-name="Rectangle 87" width="636" height="89.28" transform="translate(1364.64 413.28)" xlink:href="data:image/png;base64,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"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

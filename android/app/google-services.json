@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "373800374511",
+    "firebase_url": "https://additlabs02.firebaseio.com",
+    "project_id": "additlabs02",
+    "storage_bucket": "additlabs02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373800374511:android:28d75790272fb272040b1a",
+        "android_client_info": {
+          "package_name": "com.artemisx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373800374511-n2r2o3o61dbimuck1nong8nvnc3gjh7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artemisx",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "373800374511-fh1l8dd4lpsvem728aja544q4r0tptmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQfvhw9QFEEx-cPS_ihUBUOlaarXoammU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373800374511-fh1l8dd4lpsvem728aja544q4r0tptmm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373800374511-sq79c04njnsc6cnje8pt1tokj22o6bek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trainer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373800374511:android:e62938095ad4e3a0040b1a",
+        "android_client_info": {
+          "package_name": "com.example.trainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373800374511-l54qvs8lb18rprfcvhgfajpu116l7bbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trainer",
+            "certificate_hash": "484e7ea6df92ead11d5353baa90e1b498a745c65"
+          }
+        },
+        {
+          "client_id": "373800374511-fh1l8dd4lpsvem728aja544q4r0tptmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQfvhw9QFEEx-cPS_ihUBUOlaarXoammU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373800374511-fh1l8dd4lpsvem728aja544q4r0tptmm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373800374511-sq79c04njnsc6cnje8pt1tokj22o6bek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trainer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
